@@ -1,0 +1,10 @@
+Climate Departure Report
+========================
+Year:                     2026
+Station:                  SANTA MONICA MUNICIPAL AIRPORT, CA US
+
+Positive departures:      241
+Negative departures:      45
+
+Greatest departure:       11.23 °C
+Lowest departure:         -4.41 °C
